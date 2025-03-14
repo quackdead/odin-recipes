@@ -1,0 +1,26 @@
+body {
+	font-family: "arial", sans-serif;
+	font-weight: bold;
+}
+a {
+	color: black;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	background-color: black;
+	color: white;
+}
+p {
+	background-color: cornsilk;
+	color: black;
+}
+ul {
+	background-color: yellow;
+	color: black;
+}
+ol {
+	background-color: purple;
+	color: white;
+}
