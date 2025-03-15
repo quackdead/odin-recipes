@@ -11,6 +11,7 @@ h1 {
 h2 {
 	background-color: black;
 	color: white;
+	display: inline;
 }
 p {
 	background-color: cornsilk;
@@ -23,4 +24,8 @@ ul {
 ol {
 	background-color: purple;
 	color: white;
+}
+img {
+	float: left;
+	margin: 0px 30px 30px 30px;
 }
